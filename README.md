@@ -4,7 +4,7 @@ This Web App is currently in progress.
 This is a Web App where the user can create, read, update and delete contacts; Also the user can apply some filters to the contacts.
 
 ## Overview
-This is repo of Web App created using React, Redux, Styled Components, Node.js, Express and MongoDB.
+This is repo of Web App created using React, Redux, Styled Components, Node.js, Express and Mongoose.
 
 ## Setup
 ### Backend
