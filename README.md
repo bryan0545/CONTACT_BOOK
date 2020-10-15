@@ -24,6 +24,7 @@ npm run dev
 ### Forntend
 #### Running
 Enter to forntend folder and run the next commands on bash.
+
 Install all dependencies.
 ```bash 
 npm i 
